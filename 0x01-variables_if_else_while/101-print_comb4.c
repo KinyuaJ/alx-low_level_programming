@@ -16,7 +16,7 @@ for (l = 50; l < 58; l++)
 {
 if (l > m && m > n)
 {
-putchar(n)
+putchar(n);
 putchar(m);
 putchar(l);
 if (n != 55 || m != 56)
@@ -25,7 +25,6 @@ putchar(',');
 putchar(',');
 }
 }
-
 }
 }
 putchar('\n');
