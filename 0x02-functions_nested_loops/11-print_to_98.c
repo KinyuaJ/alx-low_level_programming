@@ -32,6 +32,6 @@ if (n == 98)
 continue;
 printf(", ");
 }
-printf("\n")
+printf("\n");
 }
 }
